@@ -6,7 +6,7 @@ import Services from "./sections/services/Services";
 import Portfolio from "./sections/portfolio/Portfolio";
 import Testimonials from "./sections/testimonials/Testimonials";
 import Faqs from "./sections/faqs/Faqs";
-import Contact from "./sections/footer/Footer";
+import Contact from "./sections/contact/Contact";
 import Footer from "./sections/footer/Footer";
 import FloatNavbar from "./sections/floating-navbar/FloatNavbar";
 
